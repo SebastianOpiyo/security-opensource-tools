@@ -5,3 +5,8 @@ HOW TO RUN THE SCRIPT
 3. Run the `deleteUserProfiles.ps1` script to do the rest.
 4. In case the user profile deletion is not successful, try running the `buildWMI.ps1` script and the rerun the `deleteUserProfiles.ps1`
 5. If step 4 doesn't work try `buildWMI2.ps1`
+
+
+
+# Reference links
+# https://social.technet.microsoft.com/Forums/windows/en-US/8c673b55-0db1-4ce1-bfaa-94527e8adb00/how-to-fix-quotinvalid-classquot-in-powershell?forum=winservergen
