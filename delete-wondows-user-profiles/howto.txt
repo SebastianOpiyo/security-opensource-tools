@@ -1,0 +1,7 @@
+HOW TO RUN THE SCRIPT
+
+1. Run the powershell as an Admin
+2. Enable scripts just incase it is disabled. By default it is disabled. Copy command from `enableScripts.ps1` file.
+3. Run the `deleteUserProfiles.ps1` script to do the rest.
+4. In case the user profile deletion is not successful, try running the `buildWMI.ps1` script and the rerun the `deleteUserProfiles.ps1`
+5. If step 4 doesn't work try `buildWMI2.ps1`
